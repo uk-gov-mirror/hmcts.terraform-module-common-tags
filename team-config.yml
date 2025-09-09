@@ -582,3 +582,13 @@ dtsse:
   tags:
     application: "core"
     businessArea: "CFT"
+
+cactus:
+  team: "cactus"
+  namespace: ""
+  slack:
+    contact_channel: "#cactus-migration"
+    build_notices_channel: "#cactus-migration"
+  tags:
+    application: "cactus"
+    businessArea: "CFT"
